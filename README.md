@@ -1,6 +1,6 @@
 # 🚗 About Me
 
-Hi, I'm Pradeep, an M.Sc. Automotive Engineering graduate passionate about building intelligent mobility solutions. I have ~3 years of experience working across the automotive domain in different engineering roles.
+Hi, I'm Pradeep, an M.Sc. Automotive Engineering graduate passionate about building intelligent mobility solutions. I have ~4 years of experience working across the automotive domain in different engineering roles.
 
 My areas of expertise include:
 
@@ -42,7 +42,7 @@ My areas of expertise include:
 ![State Estimation](https://img.shields.io/badge/State_Estimation-00599C)
 ![Localization](https://img.shields.io/badge/Localization-00599C)
 
-### Systems Engineering & V&V
+### Systems Engineering/ V&V
 
 ![Model-Based Development](https://img.shields.io/badge/Model_Based_Development-8E44AD)
 ![MIL Simulation](https://img.shields.io/badge/MIL_Simulation-8E44AD)
@@ -56,8 +56,56 @@ My areas of expertise include:
 # 🔍 Featured Work
 
 ### 🤖 AI/ML for Mobility
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="Telematics_GIF.gif" width="320"/><br>
+      <b>Commercial-Vehicle-Telemetry-Analytics-Pipeline</b><br>
+      🔗 <a  href="https://github.com/pradeepmadanagopalan-hash/Commercial-Vehicle-Telemetry-Analytics-Pipeline"> View Repository</a>
+    </td>
+    <td align="center">
+      <img src="Unsupervised_Clustering_GIF.gif" width="320"/><br>
+      <b>Unsupervised-Vehicle-Telemetry-Clustering</b><br>
+     🔗  <a href="https://github.com/pradeepmadanagopalan-hash/Unsupervised-Vehicle-Telemetry-Clustering"> View Repository</a>
+    </td>
+  </tr>
+</table>
+
+
 ### 🚘 ADAS & Autonomous Systems
-### ⚙️ Systems Engineering & V&V
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="Longitudinal_Tracking_GIF.gif" width="320"/><br>
+      <b>CARLA-Path-Tracking-Controller</b><br>
+      🔗 <a  href="https://github.com/pradeepmadanagopalan-hash/CARLA-Path-Tracking-Controller"> View Repository</a>
+    </td>
+    <td align="center">
+      <img src="State_Estimation_GIF.gif" width="320"/><br>
+      <b>Multi-Sensor-EKF-Localization</b><br>
+     🔗  <a href="https://github.com/pradeepmadanagopalan-hash/Multi-Sensor-EKF-Localization"> View Repository</a>
+    </td>
+  </tr>
+</table>
+
+### ⚙️ Systems Engineering/ Model Development/ V&V
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="V&V_GIF.gif" width="320"/><br>
+      <b>DAS-Development-Validation-Verification</b><br>
+      🔗 <a  href="https://github.com/pradeepmadanagopalan-hash/DAS-Development-Validation-Verification"> View Repository</a>
+    </td>
+    <td align="center">
+      <img src="TCS_GIF.gif" width="320"/><br>
+      <b>EV-Slip-Control-Digital-Twin</b><br>
+     🔗  <a href="https://github.com/pradeepmadanagopalan-hash/EV-Slip-Control-Digital-Twin"> View Repository</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
