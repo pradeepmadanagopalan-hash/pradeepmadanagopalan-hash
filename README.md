@@ -69,6 +69,11 @@ My areas of expertise include:
       <b>Unsupervised-Vehicle-Telemetry-Clustering</b><br>
      🔗  <a href="https://github.com/pradeepmadanagopalan-hash/Unsupervised-Vehicle-Telemetry-Clustering"> View Repository</a>
     </td>
+    <td align="center">
+      <img src="Acoustic_GIF.gif" width="320"/><br>
+      <b>Supervised-Automotive-NVH-Acoustics-Modeling</b><br>
+     🔗  <a href="https://github.com/pradeepmadanagopalan-hash/Supervised-Automotive-NVH-Acoustic-Modeling"> View Repository</a>
+    </td>
   </tr>
 </table>
 
