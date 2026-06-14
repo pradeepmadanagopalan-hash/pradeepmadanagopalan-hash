@@ -92,6 +92,11 @@ My areas of expertise include:
       <b>Multi-Sensor-EKF-Localization</b><br>
      🔗  <a href="https://github.com/pradeepmadanagopalan-hash/Multi-Sensor-EKF-Localization"> View Repository</a>
     </td>
+    <td align="center">
+      <img src="Perception_GIF.gif" width="320"/><br>
+      <b>Autonomous-Driving-Perception-Pipeline</b><br>
+     🔗  <a href="https://github.com/pradeepmadanagopalan-hash/Autonomous-Driving-Perception-Pipeline"> View Repository</a>
+    </td>
   </tr>
 </table>
 
