@@ -74,6 +74,11 @@ My areas of expertise include:
       <b>Supervised-Automotive-NVH-Acoustics-Modeling</b><br>
      🔗  <a href="https://github.com/pradeepmadanagopalan-hash/Supervised-Automotive-NVH-Acoustic-Modeling"> View Repository</a>
     </td>
+    <td align="center">
+      <img src="KPI_GIF.gif" width="320"/><br>
+      <b>Raw-Data-to-KPI</b><br>
+     🔗  <a href="https://github.com/pradeepmadanagopalan-hash/Raw-Data-to-KPI"> View Repository</a>
+    </td>
   </tr>
 </table>
 
