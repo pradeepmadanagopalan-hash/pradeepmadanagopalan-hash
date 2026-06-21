@@ -102,6 +102,11 @@ My areas of expertise include:
       <b>Autonomous-Driving-Perception-Pipeline</b><br>
      🔗  <a href="https://github.com/pradeepmadanagopalan-hash/Autonomous-Driving-Perception-Pipeline"> View Repository</a>
     </td>
+    <td align="center">
+      <img src="Depth_Map_GIF.gif" width="320"/><br>
+      <b>Stereo-Vision-Depth-Map</b><br>
+     🔗  <a href="https://github.com/pradeepmadanagopalan-hash/Stereo-Vision-Depth-Map"> View Repository</a>
+    </td>
   </tr>
 </table>
 
