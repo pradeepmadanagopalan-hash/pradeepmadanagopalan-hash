@@ -125,6 +125,11 @@ My areas of expertise include:
      🔗  <a href="https://github.com/pradeepmadanagopalan-hash/EV-Slip-Control-Digital-Twin"> View Repository</a>
     </td>
     <td align="center">
+      <img src="AEB_Demo_GIF.gif" width="320"/><br>
+      <b>SOTIF-AEB-Monte-Carlo-Analysis</b><br>
+     🔗  <a href="https://github.com/pradeepmadanagopalan-hash/SOTIF-AEB-Monte-Carlo-Analysis"> View Repository</a>
+    </td>
+    <td align="center">
       <img src="V&V_GIF.gif" width="320"/><br>
       <b>DAS-Development-Validation-Verification</b><br>
       🔗 <a  href="https://github.com/pradeepmadanagopalan-hash/DAS-Development-Validation-Verification"> View Repository</a>
